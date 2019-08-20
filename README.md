@@ -37,9 +37,9 @@ Follow these steps to setup your git _fork_ and _branch_.
 
 Follow these steps for completing your project.
 
-- [ ] Submit a Pull-Request to merge the `<firstName-lastName>` branch into the master branch on your fork. **Please don't merge your own pull request**
-- [ ] Use GitHub's website to add your project manager as a reviewer on the pull-request.
-- [ ] Your project manager will count the project as complete by merging the branch back into the master branch of your forked repository.
+- [X] Submit a Pull-Request to merge the `<firstName-lastName>` branch into the master branch on your fork. **Please don't merge your own pull request**
+- [X] Use GitHub's website to add your project manager as a reviewer on the pull-request.
+- [X] Your project manager will count the project as complete by merging the branch back into the master branch of your forked repository.
 
 ## Minimum Viable Product
 
@@ -60,11 +60,11 @@ The expected/assumed behavior of the application is listed below.
 
 ### Display Component
 
-- displays if gate is open/closed and if it is locked/unlocked
-- displays 'Closed' if the `closed` prop is `true` and 'Open' if otherwise
-- displays 'Locked' if the `locked` prop is `true` and 'Unlocked' if otherwise
-- when `locked` or `closed` use the `red-led` class
-- when `unlocked` or `open` use the `green-led` class
+[X] displays if gate is open/closed and if it is locked/unlocked
+[X] displays 'Closed' if the `closed` prop is `true` and 'Open' if otherwise
+[X] displays 'Locked' if the `locked` prop is `true` and 'Unlocked' if otherwise
+[X] when `locked` or `closed` use the `red-led` class
+[X] when `unlocked` or `open` use the `green-led` class
 
 ### Controls Component
 
